@@ -1,0 +1,17 @@
+C:\Users\magma\OneDrive\Documents\DLL-Interpreter\DLL-Interpreter\bin\Debug\net6.0-windows\DLL-Interpreter.exe
+C:\Users\magma\OneDrive\Documents\DLL-Interpreter\DLL-Interpreter\bin\Debug\net6.0-windows\DLL-Interpreter.deps.json
+C:\Users\magma\OneDrive\Documents\DLL-Interpreter\DLL-Interpreter\bin\Debug\net6.0-windows\DLL-Interpreter.runtimeconfig.json
+C:\Users\magma\OneDrive\Documents\DLL-Interpreter\DLL-Interpreter\bin\Debug\net6.0-windows\DLL-Interpreter.dll
+C:\Users\magma\OneDrive\Documents\DLL-Interpreter\DLL-Interpreter\bin\Debug\net6.0-windows\DLL-Interpreter.pdb
+C:\Users\magma\OneDrive\Documents\DLL-Interpreter\DLL-Interpreter\obj\Debug\net6.0-windows\DLL-Interpreter.csproj.AssemblyReference.cache
+C:\Users\magma\OneDrive\Documents\DLL-Interpreter\DLL-Interpreter\obj\Debug\net6.0-windows\DLL_Interpreter.BaseForm.resources
+C:\Users\magma\OneDrive\Documents\DLL-Interpreter\DLL-Interpreter\obj\Debug\net6.0-windows\DLL-Interpreter.csproj.GenerateResource.cache
+C:\Users\magma\OneDrive\Documents\DLL-Interpreter\DLL-Interpreter\obj\Debug\net6.0-windows\DLL-Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magma\OneDrive\Documents\DLL-Interpreter\DLL-Interpreter\obj\Debug\net6.0-windows\DLL-Interpreter.AssemblyInfoInputs.cache
+C:\Users\magma\OneDrive\Documents\DLL-Interpreter\DLL-Interpreter\obj\Debug\net6.0-windows\DLL-Interpreter.AssemblyInfo.cs
+C:\Users\magma\OneDrive\Documents\DLL-Interpreter\DLL-Interpreter\obj\Debug\net6.0-windows\DLL-Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\magma\OneDrive\Documents\DLL-Interpreter\DLL-Interpreter\obj\Debug\net6.0-windows\DLL-Interpreter.dll
+C:\Users\magma\OneDrive\Documents\DLL-Interpreter\DLL-Interpreter\obj\Debug\net6.0-windows\refint\DLL-Interpreter.dll
+C:\Users\magma\OneDrive\Documents\DLL-Interpreter\DLL-Interpreter\obj\Debug\net6.0-windows\DLL-Interpreter.pdb
+C:\Users\magma\OneDrive\Documents\DLL-Interpreter\DLL-Interpreter\obj\Debug\net6.0-windows\DLL-Interpreter.genruntimeconfig.cache
+C:\Users\magma\OneDrive\Documents\DLL-Interpreter\DLL-Interpreter\obj\Debug\net6.0-windows\ref\DLL-Interpreter.dll
