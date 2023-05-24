@@ -9,7 +9,7 @@ namespace DLL_Interpreter
         List<TypeInfo> CurrentDllTypeInfo = new List<TypeInfo>();
         TreeNodeInfo CurrentTreeNodeInfo;
 
-        string TestFile = @"C:\Users\magma\OneDrive\Documents\DLL-Interpreter-TestLib\TestDll\bin\Debug\net6.0\TestDll.dll";
+        //string TestFile = @"C:\Users\magma\OneDrive\Documents\DLL-Interpreter-TestLib\TestDll\bin\Debug\net6.0\TestDll.dll";
 
         public BaseForm()
         {
@@ -24,20 +24,21 @@ namespace DLL_Interpreter
             ofd.CheckPathExists = true;
             ofd.Filter = "dll | *.dll";
             ofd.InitialDirectory = @"C:\";
+            ofd.RestoreDirectory = false;
 
             ofd.Title = "Select a .dll File:";
 
             //PRODUCTION
             //Return if cancelled
-            //if (ofd.ShowDialog() != DialogResult.OK) return;
+            if (ofd.ShowDialog() != DialogResult.OK) return;
 
-            ////Save the info of the file selected
-            //CurrentDllFile = ofd.FileName;
-            //DllPathLbl.Text = CurrentDllFile;
+            //Save the info of the file selected
+            CurrentDllFile = ofd.FileName;
+            DllPathLbl.Text = CurrentDllFile;
 
             //TESTING
-            CurrentDllFile = TestFile;
-            DllPathLbl.Text = CurrentDllFile;
+            //CurrentDllFile = TestFile;
+            //DllPathLbl.Text = CurrentDllFile;
 
             //Shows output to the screen
             DisplayAssemblyInfo();
